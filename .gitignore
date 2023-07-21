@@ -1,0 +1,9 @@
+.gradle
+.idea
+
+application-real-oauth.properties
+
+settings.gradle
+
+build
+out
