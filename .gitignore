@@ -2,6 +2,9 @@
 .idea
 
 application-real-oauth.properties
+application-oauth.properties
+
+settings.gradle
 
 build
 out
